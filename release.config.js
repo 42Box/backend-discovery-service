@@ -1,5 +1,5 @@
 module.exports = {
-  repositoryUrl: 'https://github.com/TheForum-middlefitting/MainService-v2',
+  repositoryUrl: 'https://github.com/42Box/backend-discovery-service',
   branches: ['main'],
   plugins: [
     "@semantic-release/commit-analyzer",
