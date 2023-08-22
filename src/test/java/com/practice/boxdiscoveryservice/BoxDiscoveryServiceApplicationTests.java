@@ -1,10 +1,10 @@
-package com.practice.springbasic;
+package com.practice.boxdiscoveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbasicApplicationTests {
+class BoxDiscoveryServiceApplicationTests {
 
   @Test
   void contextLoads() {
